@@ -1,10 +1,23 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) {
-        int unique = 0;
-        for(int tanya : nums ){
-            unique ^= tanya;
+        int start = 0;
+        int end = nums.length- 1;
+
+        while(start < end){
+           int mid = start +(end-start)/2;
+
+            if(mid % 2 == 1){
+              mid--;
+            };
+             if (nums[mid]==nums[mid + 1]){
+                 start = mid + 2;
+            } else{
+                end = mid ;
+
+            }
             
         }
-        return unique;
+        return nums[start];
+        
     }
 }
