@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Tanya-tech12/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/Tanya-tech12/DSA/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -22,9 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Tanya-tech12/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0707-design-linked-list](https://github.com/Tanya-tech12/DSA/tree/master/0707-design-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Tanya-tech12/DSA/tree/master/0707-design-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Tanya-tech12/DSA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
