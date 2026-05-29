@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanya-tech12/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Tanya-tech12/DSA/tree/master/0189-rotate-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanya-tech12/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Tanya-tech12/DSA/tree/master/0704-binary-search) |
 ## Binary Search
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanya-tech12/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Tanya-tech12/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/Tanya-tech12/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Tanya-tech12/DSA/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Tanya-tech12/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Tanya-tech12/DSA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
